@@ -1,5 +1,5 @@
 var animal = 'dog'
-const two = 2
+
 
 function myAnimal() {
   // You should not need to modify this function
@@ -14,6 +14,7 @@ function yourAnimal() {
 var theFunk = funkyFunction()
 
 function add2(n) {
+  const two = 2
   return n + two ()
 
 
